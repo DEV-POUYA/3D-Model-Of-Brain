@@ -1,0 +1,6 @@
+{
+  "name": "اطلس سه‌بعدی مغز انسان",
+  "description": "کاوشگر تعاملی سه‌بعدی آناتومی مغز انسان با قابلیت مدیریت محتوا، حالت اشعه ایکس و نمای انفجاری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
